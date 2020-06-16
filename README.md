@@ -1,5 +1,7 @@
 # Locust.io を k8s 上で動かしてみる
 
+サンプルコード群は[GitHub - GoogleCloudPlatform/distributed-load-testing-using-kubernetes: Distributed load testing using Kubernetes on Google Container Engine](https://github.com/GoogleCloudPlatform/distributed-load-testing-using-kubernetes)からお借りしました。
+
 ローカルクラスタは kind で作成する。
 kind でローカルレジストリを利用できるようにする。
 参考: [kind - Local Registry](https://kind.sigs.k8s.io/docs/user/local-registry/)
